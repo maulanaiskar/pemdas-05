@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1dcvSpVXHD4nIdyD6CXxT3kXqBE" />
+  <component name="RunManager">
+    <configuration name="programMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programMethod" />
+      <module name="pemdas-05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.programMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
